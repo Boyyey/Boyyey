@@ -12,9 +12,9 @@ My work has been **recognized by KHDA, TDRA, and COP28** for its impact in susta
 
 - 🧠 **GPT-C** — a **C-based generative model** inspired by transformer architecture.  
 - ⚙️ **A#** — an **experimental AI-native programming language** merging logic, learning, and abstraction.  
-- 🧩 **NeuroForge** — a **framework for modular neural systems** and deep neuro-symbolic experimentation.  
-- 🕸️ **Neuro-Symbolic Consciousness Engine** — an **exploration into awareness, reflection, and adaptive reasoning**.  
-- 🧭 **T.C.E. (Temporal Cognitive Engine)** — a **brain-inspired Python framework** that fuses **attention, memory, reasoning, reflection, and goal-driven behavior** into a single coherent system — designed to **self-explain its thinking**, **adapt over time**, and **hold deep conversations** across philosophy, science, and coding.  
+- 🧩 **NeuroForge** — a **C-based framework for modular neural systems** and deep neuro-symbolic experimentation.  
+- 🕸️ **Neuro-Symbolic Consciousness Engine** — an **python-based exploration into awareness, reflection, and adaptive reasoning**.  
+- 🧭 **T.C.E. (Temporal Cognitive Engine)** — a **python-based brain-inspired Python framework** that fuses **attention, memory, reasoning, reflection, and goal-driven behavior** into a single coherent system — designed to **self-explain its thinking**, **adapt over time**, and **hold deep conversations** across philosophy, science, and coding.  
 
 ---
 
