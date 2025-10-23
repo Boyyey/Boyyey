@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I’m Amir Hossein Rasti  
 
 I’m an **AI and Machine Learning developer, researcher, and systems thinker** driven by one goal — to build **intelligent systems that think, reason, and evolve like the human mind**.  
@@ -53,9 +52,3 @@ I’ve authored **three AI research papers**, including one on **drift calibrati
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://badgen.net/badge/LinkedIn/YourName/0077B5?icon=linkedin)](www.linkedin.com/in/amir-hossein-rasti-461541306)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amirhos01158176) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amir.hossein.contact.wrk@gmail.com) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
