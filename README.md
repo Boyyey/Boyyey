@@ -28,8 +28,8 @@ My work has been **recognized by KHDA, TDRA, and COP28** for its impact in susta
 
 ### 📄 Research  
 
-I’ve authored **three AI research papers**, including one on **drift calibration** and **adaptive intelligence**.  
-
+I’ve authored **three AI research papers**, including one on **drift calibration** and **adaptive intelligence**. 
+// two in progress
 ---
 
 ### 🎯 Mission  
