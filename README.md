@@ -1,12 +1,6 @@
 # 👋 Hi, I’m Amir Hossein Rasti  
 
-
-<p align="center">
-<img width="350" height="350" alt="A-sharp" src="https://github.com/user-attachments/assets/90d5ddb8-619f-492c-b7a0-19a7a0bcab9d" />
-<img width="404" height="404" alt="NF-IN-C" src="https://github.com/user-attachments/assets/ba26042f-8bb2-4291-8725-d239cfd4c8ba" />
-</p>
-
-
+![everything](https://github.com/user-attachments/assets/ea628a19-91f9-4b55-8290-6804d494aa0a)
 
 
 I’m an **AI and Machine Learning developer, researcher, and systems thinker** driven by one goal — to build **intelligent systems that think, reason, and evolve like the human mind**.  
