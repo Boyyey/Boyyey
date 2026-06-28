@@ -5,8 +5,8 @@
 
 I’m an **AI and Machine Learning developer, researcher, and systems thinker** driven by one goal — to build **intelligent systems that think, reason, and evolve like the human mind**.  
 
-With over **115 open-source projects**, I’ve explored everything from **neural architecture design** and **symbolic reasoning** to **autonomous learning** and **meta-cognition**.  
-My work has been **recognized by KHDA, TDRA, and COP28** for its impact in sustainability and AI for good.  
+With over **155 open-source projects**, I’ve explored everything from **neural architecture design** and **symbolic reasoning** to **autonomous learning** and **meta-cognition**.  
+My work has been **recognized by KHDA, TDRA, COP28 and injaz uae 2026** for its impact in sustainability and AI for good.  
 
 ---
 
